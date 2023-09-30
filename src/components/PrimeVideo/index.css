@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.prime {
+  width: 100%;
+}
+.mg {
+  margin: 10px;
+}
+.color {
+  background-color: #231f20;
+  color: #ffffff;
+  height: 100%;
+  padding-bottom: 10vh;
+  width: 100%;
+}
+.im {
+  padding: 10px;
+  height: 200px;
+  width: 100px;
+}
+.slide {
+  margin: 25px;
+}
+.button1 {
+  background-color: transparent;
+  border: none;
+  width: 400px;
+  padding: 10vh;
+}
