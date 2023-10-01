@@ -13,6 +13,7 @@ const Slide = props => {
 
   return (
     <Popup
+  modal
       trigger={
         <button type="button" className="button1">
           <Item image={thumbnailUrl} key={id} />
