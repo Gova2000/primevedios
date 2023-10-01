@@ -14,7 +14,7 @@ const PrimeVideo = props => {
 
   const settings = {
     dots: true,
-    slidesToShow: 5,
+    slidesToShow: 4,
     slidesToScroll: 1,
   }
 
